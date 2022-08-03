@@ -1,6 +1,8 @@
 # basic_app
 
 A new Flutter project.
+This app is made in view of learning 
+how to build a basic app using flutter application. 
 
 ## Getting Started
 
